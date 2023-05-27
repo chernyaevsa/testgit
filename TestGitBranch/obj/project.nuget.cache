@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IUmTlN4NpT11FRlWP5hDI8jfxEeBUJoF1Tpm7XxNdmHRhDN+q98Wpm7HmRh6cbYsbQkFCXsggjQ3+dat8RzO8A==",
+  "dgSpecHash": "ZspJ7VrFrDGlXIUUWk/tw3f7lbDGAzunZecGkSPrNJrwrvU40wcH+d5GGko2AAz1h17udyrXg+Hvmvdi5SRODA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Администратор.CLASS-10-06\\Desktop\\TestGitBranch\\TestGitBranch\\TestGitBranch.csproj",
+  "projectFilePath": "C:\\Users\\Администратор.CLASS-10-06\\Desktop\\project\\TestGitBranch\\TestGitBranch.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Администратор.CLASS-10-06\\.nuget\\packages\\avalonia\\0.10.18\\avalonia.0.10.18.nupkg.sha512",
     "C:\\Users\\Администратор.CLASS-10-06\\.nuget\\packages\\avalonia.angle.windows.natives\\2.1.0.2020091801\\avalonia.angle.windows.natives.2.1.0.2020091801.nupkg.sha512",
