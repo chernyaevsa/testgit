@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Администратор.CLASS-10-06\\Desktop\\TestGitBranch\\TestGitBranch\\TestGitBranch.csproj": {}
+    "C:\\Users\\Администратор.CLASS-10-06\\Desktop\\project\\TestGitBranch\\TestGitBranch.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Администратор.CLASS-10-06\\Desktop\\TestGitBranch\\TestGitBranch\\TestGitBranch.csproj": {
+    "C:\\Users\\Администратор.CLASS-10-06\\Desktop\\project\\TestGitBranch\\TestGitBranch.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Администратор.CLASS-10-06\\Desktop\\TestGitBranch\\TestGitBranch\\TestGitBranch.csproj",
+        "projectUniqueName": "C:\\Users\\Администратор.CLASS-10-06\\Desktop\\project\\TestGitBranch\\TestGitBranch.csproj",
         "projectName": "TestGitBranch",
-        "projectPath": "C:\\Users\\Администратор.CLASS-10-06\\Desktop\\TestGitBranch\\TestGitBranch\\TestGitBranch.csproj",
+        "projectPath": "C:\\Users\\Администратор.CLASS-10-06\\Desktop\\project\\TestGitBranch\\TestGitBranch.csproj",
         "packagesPath": "C:\\Users\\Администратор.CLASS-10-06\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Администратор.CLASS-10-06\\Desktop\\TestGitBranch\\TestGitBranch\\obj\\",
+        "outputPath": "C:\\Users\\Администратор.CLASS-10-06\\Desktop\\project\\TestGitBranch\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
