@@ -15,6 +15,6 @@
         <vm:MainWindowViewModel/>
     </Design.DataContext>
 
-    <Button Content="{Binding Greeting}" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+    <Label Content="{Binding Greeting}" HorizontalAlignment="Center" VerticalAlignment="Center"/>
 
 </Window>
